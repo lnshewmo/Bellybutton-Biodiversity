@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+ 
+}
+
+.jumbotron {
+    background-image: url("../images/bact.jpg");
+    background-size: 100% 200%;
+    text-align: center;
+    color:antiquewhite
+}
+
+div {
+    margin-bottom: 10px;
+}
+
