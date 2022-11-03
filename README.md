@@ -1,5 +1,9 @@
 # Bellybutton-Biodiversity
 
+Using JavaScript, Plotly and D3.js to create visualizations for an interactive dashboard app
+
+---
+
 ### **View the app [HERE](https://lnshewmo.github.io/Bellybutton-Biodiversity/)**
 
 ### Overview
